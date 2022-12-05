@@ -2,7 +2,11 @@ from platform import system
 import shutil
 import os
 
-releaseDirectory = "./release"
+platform = "win" if system() == 'Windows' else 'unix'
+releaseDirectory = "./release/" + platform
+
+if not os.path.exists(releaseDirectory):
+    os.makedirs(releaseDirectory, exist_ok=True)
 
 for file in os.listdir(releaseDirectory):
     os.remove(os.path.join(releaseDirectory, file))
