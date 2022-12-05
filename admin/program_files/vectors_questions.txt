@@ -1,0 +1,5 @@
+_________ can be referred to as an ordered finite list of numbers&&Vector&&Scalar&&Matrix&&Vector&&
+The size of a vector can also be called length or ___________&&Dimension&&Area&&Type&&Grid&&Dimension&&
+A block vector is also known as ____________&&Stacked Vector&&Combined Vector&&Embedded&&Stacked Vector&&
+If Vector M = [a, b, c] and a, b, and c are vectors, what type of vector is vector M?&&Stacked Vector&&Subvector&&Unit Vector&&Stacked Vector&&
+Consider the vector a = [b, c, d]. if b is an m-vector, c is an n-vector and d is a p-vector, the size of vector a is.&&m+n+p&&(m+n+p)/3&&m+n+p-1&&m+n+p&&
