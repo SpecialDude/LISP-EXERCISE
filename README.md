@@ -12,4 +12,4 @@ whatever your face sees, deal with it!!!
 
 ## Usage
 
-Download the files in the release folder, and just run the main.py file
+Download the files in the release folder for your platform, and just run the main.py file
